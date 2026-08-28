@@ -1,3 +1,11 @@
+*av_categorical_perception_1a
+
+**Contributors**
+Martina Andrea Seveso,
+Rebecca Hirst,
+Alan O'Dowd,
+Fiona N. Newell
+
 **Research aims**
 
 To investigate the nature of multisensory categories and the categorization of 3D familiar objects.
